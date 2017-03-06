@@ -1,0 +1,16 @@
+15
+1 ; Rui Pereira ; 01/03/2008 ; 24.50
+2 ; Maria de Lurdes ; 23/04/2009 ; 0.00
+3 ; Pepe ; 07/05/2009 ; 2.20
+4 ; Jose Borges ; 30/07/2009 ; 4.20
+5 ; Rui Patricio ; 28/04/2010 ; 7.00
+6 ; Joana Beires ; 15/10/2010 ; 7.50
+7 ; Cristiano Ronaldo ; 20/10/2011 ; 6.40
+8 ; Joao Moutinho ; 04/01/2012 ; 5.50
+9 ; Jamie Vardy ; 20/03/2012 ; 10.00
+10 ; Deco ; 02/04/2012 ; 20.00
+16 ; Manuela Moura ; 31/03/2016 ; 8.30
+17 ; Nani ; 10/04/2016 ; 6.70
+19 ; Luka Modric ; 15/04/2016 ; 15.40
+20 ; Nico Gaitan ; 20/04/2016 ; 30.00
+31 ; Vicente Espinha ; 28/04/2016 ; 7.40

@@ -1,0 +1,6 @@
+5
+peixe ; 2
+carne ; 1.2
+batatas fritas ; 8.5
+cerveja ; 2
+ovos ; 1.2
